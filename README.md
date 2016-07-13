@@ -2,7 +2,7 @@
 Tutorials for Swift Concepts
 
 
-#H2 Index 
+#Index 
 
 | Swift Concepts        | Playground           | 
 | ------------- |:-------------:|
